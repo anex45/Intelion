@@ -6,7 +6,7 @@ Welcome to the Intelion project — a sleek, modern, and highly interactive webs
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/anex45-this/intelion-nextjs.git
+git clone https://github.com/anex45-this/Intelion.git
 cd intelion-nextjs
 npm install
 
